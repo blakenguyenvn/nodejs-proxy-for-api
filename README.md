@@ -1,16 +1,15 @@
 ## Create .env
-``
 
+```
 PORT=8084
 HOST='localhost'
 
-DEVELOPMENT_SERVER='https://dev4.vinceredev.com'
-PRODUCTION_SERVER='https://test-staging.vincere.io'
+DEVELOPMENT_SERVER='https://dev.simflexcode.com'
+PRODUCTION_SERVER='https://staging.simflexcode.com'
 
 APP_DEVELOPMENT_URL='http://localhost:8085'
 APP_PRODUCTION_URL='http://localhost:8085'
-
-``
+```
 
 ## Available Scripts
 
